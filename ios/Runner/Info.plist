@@ -13,8 +13,8 @@
 	<key>CFBundleInfoDictionaryVersion</key>
 	<string>6.0</string>
 	<key>CFBundleName</key>
-	<string>idn_pos</string>
-	<key>CFBundlePackageType</key>
+	<string>Payme</string>
+	<key>CFBundlePackageType</key>flute
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
 	<string>$(FLUTTER_BUILD_NAME)</string>
